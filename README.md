@@ -123,5 +123,3 @@ Agent: "Understood. Searching for 'Focus' and 'Lo-Fi' tracks with high acousticn
 ## 📝 License
 
 This project is licensed under the MIT License.
-
-```
